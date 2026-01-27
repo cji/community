@@ -121,7 +121,6 @@ aliases:
   sig-ui-leads:
     - floreks
     - joaquimrocha
-    - maciaszczykm
     - shu-mutou
   sig-windows-leads:
     - aravindhp
@@ -171,13 +170,8 @@ aliases:
     - liggitt
     - micahhausler
   wg-node-lifecycle-leads:
-    - JoelSpeed
     - atiratree
-    - fabriziopandini
-    - haircommander
-    - humblec
     - intUnderflow
-    - kwilczynski
     - rthallisey
   wg-serving-leads:
     - ArangoGutierrez
